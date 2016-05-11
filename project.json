@@ -10,11 +10,11 @@
     "**.vspscc"
   ],
   "dependencies": {
-    "Microsoft.AspNet.Server.Kestrel": "1.0.0-rc1-final",
-    "Microsoft.AspNet.IISPlatformHandler": "1.0.0-rc1-final",
-    "Microsoft.AspNet.Diagnostics": "1.0.0-rc1-final",
-    "Microsoft.AspNet.Mvc": "6.0.0-rc1-final",
-    "Microsoft.Extensions.Logging.Console": "1.0.0-rc1-final"
+    "Microsoft.AspNet.Server.Kestrel": "1.0.0-rc1-update1",
+    "Microsoft.AspNet.IISPlatformHandler": "1.0.0-rc1-update1",
+    "Microsoft.AspNet.Diagnostics": "1.0.0-rc1-update1",
+    "Microsoft.AspNet.Mvc": "6.0.0-rc1-update1",
+    "Microsoft.Extensions.Logging.Console": "1.0.0-rc1-update1"
   },
   "commands": {
     "web": "Microsoft.AspNet.Server.Kestrel --server.urls http://*:5000"
